@@ -6,7 +6,7 @@ Rocker Templates by Fizzed
 
 [Fizzed, Inc.](http://fizzed.com) (Follow on Twitter: [@fizzed_inc](http://twitter.com/fizzed_inc))
 
-## Sponsored by
+## Sponsored
 
 Rocker is proudly sponsored by <a href="https://www.greenback.com">Greenback</a>.  We love the service and think you would too.
 
